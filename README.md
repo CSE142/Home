@@ -4,7 +4,7 @@ This is the starting point for CSE141L.
 
 ## Lecture Slides
 
-Available via google drive: **TODO**
+Available via google drive: https://drive.google.com/drive/folders/1uSgifPM0FluKMH0OcjHQzwUiI_vCrMEp?usp=sharing
 
 ## Labs
 
