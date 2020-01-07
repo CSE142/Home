@@ -27,3 +27,5 @@ Due dates are here: https://docs.google.com/spreadsheets/d/1MeoDp09fakjIZlwwyGFm
 ## Tip and Tricks
 
 1. [Getting Docker Running On Your Machine](Getting-Docker.md)
+2. [Runlab Quick Reference](runlab-quickref.md)
+
