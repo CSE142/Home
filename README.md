@@ -15,3 +15,7 @@ Due dates are here: https://docs.google.com/spreadsheets/d/1MeoDp09fakjIZlwwyGFm
 | Number | Name   | Section A Github classroom link         | Section B Github classroom link         | 
 |--------|--------|-----------------------------------------|-----------------------------------------|
 | 1      | Intro  | https://classroom.github.com/a/IjkqbBTv | https://classroom.github.com/a/-VPj3rda |
+
+## Tip and Tricks
+
+1. [Getting Docker Running On Your Machine](Getting-Docker.md)
