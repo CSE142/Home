@@ -14,7 +14,7 @@ Due dates are here: https://docs.google.com/spreadsheets/d/1MeoDp09fakjIZlwwyGFm
 
 | Number | Name   | Starter Code | Section A Github classroom link         | Section B Github classroom link         | 
 |--------|--------|--------------|-----------------------------------------|-----------------------------------------|
-| 1      | Intro  | [link](https://github.com/CSE141pp/wi20-CSE141L-intro)             | https://classroom.github.com/a/IjkqbBTv | https://classroom.github.com/a/-VPj3rda |
+| 1      | Intro  | [link](https://github.com/CSE141pp/wi20-CSE141L-intro)             | [link](https://classroom.github.com/a/IjkqbBTv) | [link](https://classroom.github.com/a/-VPj3rda) |
 | 2      |   |  |  | |
 | 3      |   |  |  | |
 | 4      |   |  |  | |
