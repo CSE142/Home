@@ -12,17 +12,17 @@ Due dates are here: https://docs.google.com/spreadsheets/d/1MeoDp09fakjIZlwwyGFm
 
 **Note** Accessing the lab early is a form of cheating.  If you are a Section B student, do not click on the Section A link.
 
-| Number | Name   | Section A Github classroom link         | Section B Github classroom link         | 
-|--------|--------|-----------------------------------------|-----------------------------------------|
-| 1      | Intro  | https://classroom.github.com/a/IjkqbBTv | https://classroom.github.com/a/-VPj3rda |
-| 2      |   |  |  |
-| 3      |   |  |  |
-| 4      |   |  |  |
-| 5      |   |  |  |
-| 6      |   |  |  |
-| 7      |   |  |  |
-| F1      |   |  |  |
-| F2     |   |  |  |
+| Number | Name   | Starter Code | Section A Github classroom link         | Section B Github classroom link         | 
+|--------|--------|--------------|-----------------------------------------|-----------------------------------------|
+| 1      | Intro  | [link](https://github.com/CSE141pp/wi20-CSE141L-intro)             | https://classroom.github.com/a/IjkqbBTv | https://classroom.github.com/a/-VPj3rda |
+| 2      |   |  |  | |
+| 3      |   |  |  | |
+| 4      |   |  |  | |
+| 5      |   |  |  | |
+| 6      |   |  |  | |
+| 7      |   |  |  | |
+| F1      |   |  |  | |
+| F2     |   |  |  | |
 
 ## Tip and Tricks
 
