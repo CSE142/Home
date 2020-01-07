@@ -1,4 +1,10 @@
-#### Run Docker Locally on Your Mac
+# How To Get Docker Running On your Machine
+
+Here are a few ways to get docker running on your own machine.  For instructions on how to get access to the campus-supplied docker facilities, see the lab writeup for the first lab.
+
+One thing to keep in mind:  The docker image is large (~9GB) and you'll need to devote at least 2GB of DRAM to it.
+
+## Run Docker Locally on Your Mac
 
 Start by following the instructions here to install docker:
 https://docs.docker.com/install/.  This seems to work pretty easily,
@@ -7,10 +13,8 @@ on your Mac.
 
 Once that's done, you should be able to run `docker` in the terminal.
 
-One thing to keep in mind:  The docker image large (~9GB) and you'll need to devote at least 2GB of DRAM to it.
 
-
-#### Run Docker on Your Windows Machine
+## Run Docker on Your Windows Machine
 
 It is possible to run Docker on Windows, but we've had many issues
 with, and we don't support it.  The lab staff is not able to assist
@@ -71,7 +75,7 @@ Change directories to land where your files should be.
 cd ../runner
 ```
 
-#### Use VirtualBox to Run Linux (on Mac or Windows if you have Intel VT-X or AMD-V support)
+## Use VirtualBox to Run Linux (on Mac or Windows if you have Intel VT-X or AMD-V support)
 
 1.  Download and install VirtualBox: https://www.virtualbox.org/wiki/Downloads
 2.  Open VirtualBox
@@ -104,11 +108,11 @@ Options:
 ...
 ```
 
-#### Use Docker for Windows (on Windows if you don't have Intel VT-X or AMD-V support)
+## Use Docker for Windows (on Windows if you don't have Intel VT-X or AMD-V support)
 
 Follow directions here: https://docs.docker.com/docker-for-windows/
 
-### Start a Docker Container
+## Start a Docker Container
 
 This only applies if you are running docker on your own machine (i.e., not on ieng6).  If you are running on ieng6, then you should skip this.
 
