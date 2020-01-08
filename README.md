@@ -12,6 +12,8 @@ Due dates are here: https://docs.google.com/spreadsheets/d/1MeoDp09fakjIZlwwyGFm
 
 **Note** Accessing the lab early is a form of cheating.  If you are a Section B student, do not click on the Section A link.
 
+**Note** The importing process in GitHub Classroom can take a surprisingly long time.  Be patient.
+
 | Number | Name   | Section A Github classroom link         | Section B Github classroom link         | 
 |--------|--------|-----------------------------------------|-----------------------------------------|
 | 1      | Intro  | [link](https://classroom.github.com/a/IjkqbBTv) | [link](https://classroom.github.com/a/-VPj3rda) |
