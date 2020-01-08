@@ -31,4 +31,5 @@ Due dates are here: https://docs.google.com/spreadsheets/d/1MeoDp09fakjIZlwwyGFm
 1. [Getting Docker Running On Your Machine](Getting-Docker.md)
 2. [Runlab Quick Reference](runlab-quickref.md)
 3. [Type your github password less](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
+4. [Working around the limitations of ieng6](ieng6-fixes.md) (coming soon!)
 
