@@ -32,4 +32,6 @@ Due dates are set in gradescope.  Look for them there.
 2. [Runlab Quick Reference](runlab-quickref.md)
 3. [Type your github password less](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
 4. [Working around the limitations of ieng6](ieng6-fixes.md)
+5. [Change github accounts no gradescope](use-a-different-github-account.md)
+
 
