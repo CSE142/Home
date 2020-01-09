@@ -8,7 +8,7 @@ Available via google drive: https://drive.google.com/drive/folders/1uSgifPM0FluK
 
 ## Labs
 
-Due dates are here: https://docs.google.com/spreadsheets/d/1MeoDp09fakjIZlwwyGFmh5GtIMDDPwHL_8asrw2EwkQ/edit#gid=0
+Due dates are set in gradescope.  Look for them there.
 
 **Note** Accessing the lab early is a form of cheating.  If you are a Section B student, do not click on the Section A link.
 
