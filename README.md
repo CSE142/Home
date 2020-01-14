@@ -17,7 +17,7 @@ Due dates are set in gradescope.  Look for them there.
 | Number | Name   | Section A Github classroom link         | Section B Github classroom link         | 
 |--------|--------|-----------------------------------------|-----------------------------------------|
 | 1      | Intro  | [link](https://classroom.github.com/a/IjkqbBTv) | [link](https://classroom.github.com/a/-VPj3rda) |
-| 2      |   |  | |
+| 2      | Characterizing  |[link](https://classroom.github.com/a/S1PAs7SE) | [link](https://classroom.github.com/a/tV9Oz_P4) |
 | 3      |   |    | |
 | 4      |   |    | |
 | 5      |   |    | |
