@@ -26,6 +26,32 @@ Due dates are set in gradescope.  Look for them there.
 | F1      |   |    | |
 | F2     |   |   | |
 
+## Pulling Updates
+
+Occasionally, we find bugs in the starter repo and push updates to it.  To get them you need to 'fetch from upstream' using git.  The first time you do this you need to do:
+
+```git remote add upstream <starter repo>```
+
+Where `starter repo` is the url as your repo but with your username replaced with `starter` (e.g., instead of 
+
+```
+https://github.com/CSE141pp/wi20-CSE141L-intro-stevenjswanson.git
+```
+
+It would be 
+
+```
+https://github.com/CSE141pp/wi20-CSE141L-intro-starter.git
+```
+
+Then, each time I push a new update (and announce it on Piazza) you should do this:
+
+```
+git fetch upstream
+git merge remotes/upstream/master
+git push
+```
+
 ## Tip and Tricks
 
 1. [Getting Docker Running On Your Machine](Getting-Docker.md)
