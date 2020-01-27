@@ -10,7 +10,7 @@ Available via google drive: https://drive.google.com/drive/folders/1uSgifPM0FluK
 
 Due dates are set in gradescope.  Look for them there.
 
-**Note** Accessing the lab early is a form of cheating.  If you are a Section B student, do not click on the Section A link.
+**Note** The links below are disabled until the lab is released (typically around class time).
 
 **Note** The importing process in GitHub Classroom can take a surprisingly long time.  Be patient.
 
@@ -18,6 +18,7 @@ Due dates are set in gradescope.  Look for them there.
 |--------|--------|-----------------------------------------|-----------------------------------------|
 | 1      | Intro  | [link](https://classroom.github.com/a/IjkqbBTv) | [link](https://classroom.github.com/a/-VPj3rda) |
 | 2      | Characterizing  |[link](https://classroom.github.com/a/S1PAs7SE) | [link](https://classroom.github.com/a/tV9Oz_P4) |
+| Olympics1 | Pipeline Olympics | [link](https://classroom.github.com/a/sDstmQly) | [link](https://classroom.github.com/a/EMftLy7H) |
 | 3      |   |    | |
 | 4      |   |    | |
 | 5      |   |    | |
