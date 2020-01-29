@@ -47,7 +47,7 @@ It would be
 https://github.com/CSE141pp/wi20-CSE141L-intro-starter.git
 ```
 
-Note that for other labs, you should replace 'intro' with the lab name and 'starter' with your username
+Note that for other labs, you should replace `intro` with the lab name and `starter` with your username
 
 Then, each time I push a new update (and announce it on Piazza) you should do this:
 
