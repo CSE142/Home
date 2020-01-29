@@ -33,7 +33,9 @@ Occasionally, we find bugs in the starter repo and push updates to it.  To get t
 
 ```git remote add upstream <starter repo>```
 
-Where `starter repo` is the url as your repo but with your username replaced with `starter` (e.g., instead of 
+Where `starter repo` is the url as your repo but with your username replaced with `starter`.  
+
+For example, instead of 
 
 ```
 https://github.com/CSE141pp/wi20-CSE141L-intro-stevenjswanson.git
@@ -49,9 +51,24 @@ Then, each time I push a new update (and announce it on Piazza) you should do th
 
 ```
 git fetch upstream
+```
+
+To pull the changes.  Then you can do:
+
+```
+git diff upstream/master
+```
+
+To see what's changed.
+
+And finally,
+
+```
 git merge remotes/upstream/master
 git push
 ```
+
+To merge the changes into your repo and push the results back to your repo on github.
 
 ## Tip and Tricks
 
