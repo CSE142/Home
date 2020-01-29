@@ -35,7 +35,7 @@ Occasionally, we find bugs in the starter repo and push updates to it.  To get t
 
 Where `starter repo` is the url as your repo but with your username replaced with `starter`.  
 
-For example, instead of 
+For example, for lab 1 (introduction to the development environment), instead of 
 
 ```
 https://github.com/CSE141pp/wi20-CSE141L-intro-stevenjswanson.git
@@ -46,6 +46,8 @@ It would be
 ```
 https://github.com/CSE141pp/wi20-CSE141L-intro-starter.git
 ```
+
+Note that for other labs, you should replace 'intro' with the lab name and 'starter' with your username
 
 Then, each time I push a new update (and announce it on Piazza) you should do this:
 
