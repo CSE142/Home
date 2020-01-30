@@ -29,6 +29,8 @@ Due dates are set in gradescope.  Look for them there.
 
 ## Pulling Updates
 
+**Note** For Pipeline Olympics for wi20, please check @339 on piazza for additional instructions on how to get this setup for _that lab only_.
+
 Occasionally, we find bugs in the starter repo and push updates to it.  Every time you run `runlab` it will check for updates.  To check explicitly, you can do
 
 ```
