@@ -29,49 +29,53 @@ Due dates are set in gradescope.  Look for them there.
 
 ## Pulling Updates
 
-Occasionally, we find bugs in the starter repo and push updates to it.  To get them you need to 'fetch from upstream' using git.  The first time you do this you need to do:
-
-```git remote add upstream <starter repo>```
-
-Where `starter repo` is the url as your repo but with your username replaced with `starter`.  
-
-For example, for lab 1 (introduction to the development environment), instead of 
+Occasionally, we find bugs in the starter repo and push updates to it.  Every time you run `runlab` it will check for updates.  To check explicitly, you can do
 
 ```
-https://github.com/CSE141pp/wi20-CSE141L-intro-stevenjswanson.git
+runlab --info
 ```
 
-It would be 
+Which might generate
 
 ```
-https://github.com/CSE141pp/wi20-CSE141L-intro-starter.git
+===================================================================
+# The lab starter repo has been changed.  The diff follows.
+# Do `runlab --merge-updates` to merge the changes into your repo.
+diff --git a/README.md b/README.md
+index 700cbaa..d5b2309 100644
+--- a/README.md
++++ b/README.md
+@@ -3,7 +3,7 @@
+ In this lab you will set up the lab environment and learn how to gather
+ information about programs using the course tools.  You will download
+ some starter code, build and run it in a Docker container, modify the
+-code and push the changes to a git repo.  Run the code in the cloud on
++code, and push the changes to a git repo.  Run the code in the cloud on
+ our reference processor to gather some data.
 ```
 
-Note that for other labs, you should replace `intro` with the lab name and `starter` with your username
+Then you can do 
 
-Then, each time I push a new update (and announce it on Piazza) you should do this:
-
-```
-git fetch upstream
+``` 
+runlab --merge-updates
 ```
 
-To pull the changes.  Then you can do:
+to integrate the changes into your repo.  After which you could do:
 
 ```
-git diff upstream/master
+runlab --info
 ```
 
-To see what's changed.
-
-And finally,
+and see
 
 ```
-git merge remotes/upstream/master
-git push
+No updates available for this lab.
+INFO               :
+=======            :
+lab_name           : Introduction to the Development Environment
+short_name         : intro
+...
 ```
-
-To merge the changes into your repo and push the results back to your repo on github.
-
 ## Tip and Tricks
 
 1. [Getting Docker Running On Your Machine](Getting-Docker.md)
