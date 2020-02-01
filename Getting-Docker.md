@@ -2,7 +2,25 @@
 
 Here are a few ways to get docker running on your own machine.  For instructions on how to get access to the campus-supplied docker facilities, see the lab writeup for the first lab.
 
-One thing to keep in mind:  The docker image is large (~9GB) and you'll need to devote at least 2GB of DRAM to it.
+One thing to keep in mind:  The docker image is large (~17GB) and you'll need to devote at least 2GB of DRAM to it.
+
+**Note** If you are going to run your own docker, you need to make sure your keep your image up to date.  Before you start you start working, you should do
+
+```
+docker pull ucsdnvsl/cse141pp:latest
+```
+
+You can see what version you are currently running with 
+
+``` 
+echo $THIS_DOCKER_IMAGE
+```
+
+Or 
+
+``` 
+runlab --info
+```
 
 ## Run Docker Locally on Your Mac
 
