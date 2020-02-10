@@ -19,7 +19,7 @@ Due dates are set in gradescope.  Look for them there.
 | 1      | Intro  | [link](https://classroom.github.com/a/IjkqbBTv) | [link](https://classroom.github.com/a/-VPj3rda) |
 | 2      | Characterizing  |[link](https://classroom.github.com/a/S1PAs7SE) | [link](https://classroom.github.com/a/tV9Oz_P4) |
 | Olympics1 | Pipeline Olympics | [link](https://classroom.github.com/a/sDstmQly) | [link](https://classroom.github.com/a/EMftLy7H) |
-| 3      |   |    | |
+| 3      |  Caches I |[link](https://classroom.github.com/a/mU1wwVdP)    | [link](https://classroom.github.com/a/jgACagmZ)|
 | 4      |   |    | |
 | 5      |   |    | |
 | 6      |   |    | |
