@@ -21,11 +21,8 @@ Due dates are set in gradescope.  Look for them there.
 | Olympics1 | Pipeline Olympics | [link](https://classroom.github.com/a/sDstmQly) | [link](https://classroom.github.com/a/EMftLy7H) |
 | 3      | Caches  |[link](https://classroom.github.com/a/mU1wwVdP)    | [link](https://classroom.github.com/a/jgACagmZ)|
 | 4      | Threads  | [link](https://classroom.github.com/a/Q6LA193p)   | [link](https://classroom.github.com/a/wO31KW6p) |
-| 5      |   |    | |
-| 6      |   |    | |
-| 7      |   |   | |
-| F1      |   |    | |
-| F2     |   |   | |
+| F1     | Final   |  [link](https://classroom.github.com/a/88Y4NKO1)   | [link](https://classroom.github.com/a/wDDKmo6E) |
+
 
 ## Pulling Updates
 
