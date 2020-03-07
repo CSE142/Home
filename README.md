@@ -14,14 +14,14 @@ Due dates are set in gradescope.  Look for them there.
 
 **Note** The importing process in GitHub Classroom can take a surprisingly long time.  Be patient.
 
-| Number | Name   | Section A Github classroom link         | Section B Github classroom link         | 
-|--------|--------|-----------------------------------------|-----------------------------------------|
+| Number | Name   | Section A Github classroom link         | Section B Github classroom link         |  Starter Repo | 
+|--------|--------|-----------------------------------------|-----------------------------------------|---------------|
 | 1      | Intro  | [link](https://classroom.github.com/a/IjkqbBTv) | [link](https://classroom.github.com/a/-VPj3rda) |
 | 2      | Characterizing  |[link](https://classroom.github.com/a/S1PAs7SE) | [link](https://classroom.github.com/a/tV9Oz_P4) |
 | Olympics1 | Pipeline Olympics | [link](https://classroom.github.com/a/sDstmQly) | [link](https://classroom.github.com/a/EMftLy7H) |
 | 3      | Caches  |[link](https://classroom.github.com/a/mU1wwVdP)    | [link](https://classroom.github.com/a/jgACagmZ)|
 | 4      | Threads  | [link](https://classroom.github.com/a/Q6LA193p)   | [link](https://classroom.github.com/a/wO31KW6p) |
-| F1     | Final   |  [link](https://classroom.github.com/a/88Y4NKO1)   | [link](https://classroom.github.com/a/wDDKmo6E) |
+| F1     | Final   |  [link](https://classroom.github.com/a/88Y4NKO1)   | [link](https://classroom.github.com/a/wDDKmo6E) | [link](https://github.com/CSE141pp/wi20-CSE141L-final-starter)|
 
 
 ## Pulling Updates
@@ -75,6 +75,11 @@ lab_name           : Introduction to the Development Environment
 short_name         : intro
 ...
 ```
+
+## Being Notified Of Changes to the Lab
+
+If you want to be notified whenever we update the lab, subscribe to commit messages for the starter repo on github.
+
 ## Tip and Tricks
 
 1. [Getting Docker Running On Your Machine](Getting-Docker.md)
