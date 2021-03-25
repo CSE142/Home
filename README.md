@@ -1,6 +1,6 @@
-# CSE141L Home Page
+# CSE142L Home Page
 
-This is the starting point for CSE141L.
+This is the starting point for CSE142L.
 
 ## Lecture Slides
 
@@ -16,12 +16,12 @@ Due dates are set in gradescope.  Look for them there.
 
 | Number | Name   | Section A Github classroom link         | Section B Github classroom link         |  Starter Repo | 
 |--------|--------|-----------------------------------------|-----------------------------------------|---------------|
-| 1      | Intro  | [link](https://classroom.github.com/a/IjkqbBTv) | [link](https://classroom.github.com/a/-VPj3rda) |
-| 2      | Characterizing  |[link](https://classroom.github.com/a/S1PAs7SE) | [link](https://classroom.github.com/a/tV9Oz_P4) |
-| Olympics1 | Pipeline Olympics | [link](https://classroom.github.com/a/sDstmQly) | [link](https://classroom.github.com/a/EMftLy7H) |
-| 3      | Caches  |[link](https://classroom.github.com/a/mU1wwVdP)    | [link](https://classroom.github.com/a/jgACagmZ)|
-| 4      | Threads  | [link](https://classroom.github.com/a/Q6LA193p)   | [link](https://classroom.github.com/a/wO31KW6p) |
-| F1     | Final   |  [link](https://classroom.github.com/a/88Y4NKO1)   | [link](https://classroom.github.com/a/wDDKmo6E) | [link](https://github.com/CSE141pp/wi20-CSE141L-final-starter)|
+| 1      | Intro  |                                         |                                         |               |
+| 2      | Characterizing  |                                |                                         |               |
+| Olympics1 | Pipeline Olympics |                           |                                         |               |
+| 3      | Caches  |                                        |                                         |               |
+| 4      | Threads |                                        |                                         |               |
+| F1     | Final   |                                        |                                         |               |
 
 
 ## Pulling Updates
