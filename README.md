@@ -16,7 +16,7 @@ Due dates are set in gradescope.  Look for them there.
 
 | Number | Name   | Github classroom invitation link        | Starter Repo | 
 |--------|--------|-----------------------------------------|---------------|
-| 1      | Intro  | [Link](https://classroom.github.com/a/8_KIG-vA) |               |
+| 1      | Intro  | [Link](https://classroom.github.com/a/GM3LVy_C) |               |
 | 2      | Characterizing  |                                |               |
 | Olympics1 | Pipeline Olympics |                           |               |
 | 3      | Caches  |                                        |               |
