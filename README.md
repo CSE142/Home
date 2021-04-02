@@ -15,8 +15,8 @@ Due dates are set in gradescope.  Look for them there.
 **Note** The importing process in GitHub Classroom can take a surprisingly long time.  Be patient.
 
 | Number | Name   | Github classroom invitation link        | Starter Repo | 
-|--------|--------|-----------------------------------------|---------------|
-| 1      | Intro  |                                         |               |
+|--------|--------|-----------------------------------------|--------------|
+| 1      | Intro  |                                         |              |
 
 
 ## Pulling Updates
@@ -80,7 +80,6 @@ If you want to be notified whenever we update the lab, subscribe to commit messa
 1. [Getting Docker Running On Your Machine](Getting-Docker.md)
 2. [Runlab Quick Reference](runlab-quickref.md)
 3. [Type your github password less](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
-4. [Working around the limitations of ieng6](ieng6-fixes.md)
-5. [Change github accounts no gradescope](use-a-different-github-account.md)
+4. [Change github accounts no gradescope](use-a-different-github-account.md)
 
 

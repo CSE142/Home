@@ -132,7 +132,7 @@ Follow directions here: https://docs.docker.com/docker-for-windows/
 
 ## Start a Docker Container
 
-This only applies if you are running docker on your own machine (i.e., not on ieng6).  If you are running on ieng6, then you should skip this.
+This only applies if you are running docker on your own machine (i.e., not on DSMLP).  If you are running on DSMLP, then you should skip this.
 
 The docker image you'll be using is `ucsdnvsl/CSE141pp:latest`.
 
