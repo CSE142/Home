@@ -14,9 +14,9 @@ Due dates are set in gradescope.  Look for them there.
 
 **Note** The importing process in GitHub Classroom can take a surprisingly long time.  Be patient.
 
-| Number | Name   | Github classroom invitation link        | Starter Repo | 
-|--------|--------|-----------------------------------------|--------------|
-| 1      | Intro  |                                         |              |
+| Number | Name   | Github classroom invitation link                | Starter Repo | 
+|--------|--------|-------------------------------------------------|--------------|
+| 1      | Intro  | [Link](https://classroom.github.com/a/gNSleHrN) |              |
 
 
 ## Pulling Updates
