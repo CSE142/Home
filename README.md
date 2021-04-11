@@ -15,7 +15,7 @@ Due dates are set in gradescope.  Look for them there.
 **Note** The importing process in GitHub Classroom can take a surprisingly long time.  Be patient.
 
 <table>
- <tr><th>Number</th><th>Name</th><th>Github classroom invitation link</th><th>Release</th><th colspan=2>Due</th><th>Starter Repo</th></tr>
+ <tr><th>Number</th><th>Name</th><th>Invitation Link</th><th>Release</th><th colspan=2>Due</th><th>Starter Repo</th></tr>
  <tr><td>1</td><td>Intro</td><td><a href="https://classroom.github.com/a/gNSleHrN">Link</a></td><td>04/05/21</td><td colspan=2>04/11/21 11:59 PM</td><td><a href="https://github.com/CSE142/sp21-CSE142L-intro-starter">Link</a></td></tr>
  <tr><td>2</td><td></td><td></td><td>04/12/21</td><td colspan=2>04/18/21 11:59 PM</td><td></td></tr>
  <tr><td>3</td><td></td><td></td><td>04/19/21</td><td align=right>Checkpoint<br>Due</td><td>04/25/21 11:59 PM<br>05/02/21 11:59 PM</td><td></td></tr>
