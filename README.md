@@ -26,7 +26,7 @@ Due dates are set in gradescope.  Look for them there.
 
 ## Pulling Updates
 
-Occasionally, we find bugs in the starter repo and push updates to it.  For important changes, we will post to edstem.  For minor clarification, we might not.  There are two ways to be kept up to date, regardless.  First, you can "watch" the starter repo by clicking the "watch" button at the top of it's home page on github.
+Occasionally, we find bugs in the starter repo and push updates to it.  For important changes, we will post to edstem.  For minor clarification, we might not.  There are three ways to be kept up to date, regardless.  First, you can "watch" the starter repo by clicking the "watch" button at the top of it's home page on github.
 
 Second, every time you run `runlab` it will check for updates.  To check explicitly, you can do
 
@@ -75,6 +75,8 @@ lab_name           : Introduction to the Development Environment
 short_name         : intro
 ...
 ```
+
+Third, you may use `git pull upstream master --allow-unrelated-histories -X theirs` to fetch the latest updates. Depending on your Git version, you may need to remove `--allow-unrelated-histories`. The `-X theirs` option is for blindly accept every incoming modifications when there is a conflict. If you don't feel comfortable doin that, you may remove this option, too, and manually check the conflicting code blocks surrounded by `>>>>>`, `=====`, and `<<<<<`.
 
 ## Being Notified Of Changes to the Lab
 
