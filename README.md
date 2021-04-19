@@ -76,7 +76,7 @@ short_name         : intro
 ...
 ```
 
-Third, you may use `git pull upstream master --allow-unrelated-histories -X theirs` to fetch the latest updates. Depending on your Git version, you may need to remove `--allow-unrelated-histories`. The `-X theirs` option is for blindly accept every incoming modifications when there is a conflict. If you don't feel comfortable doin that, you may remove this option, too, and manually check the conflicting code blocks surrounded by `>>>>>`, `=====`, and `<<<<<`.
+Third, you may use `git pull upstream master --allow-unrelated-histories -X theirs` to fetch the latest updates. Depending on your Git version, you may need to remove `--allow-unrelated-histories`. The `-X theirs` option is for blindly accepting every incoming modifications when there is a conflict. If you don't feel comfortable doin that, you may remove this option, too, and manually check the conflicting code blocks surrounded by `>>>>>`, `=====`, and `<<<<<`.
 
 ## Being Notified Of Changes to the Lab
 
