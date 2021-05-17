@@ -57,6 +57,20 @@ Due dates are set in gradescope.  Look for them there.
   <td align=right>Final</td>
   <td>05/16/21 11:59 PM</td>
  </tr>
+ <tr>
+  <td rowspan=3>5</td><td rowspan=3>Final</td>
+  <td rowspan=3><a href="https://classroom.github.com/a/TxFIxLtQ">Link</a></td>
+  <td rowspan=3>05/17/21</td><td align=right>Checkpoint 1</td><td>05/23/21 11:59 PM</td>
+  <td rowspan=3><a href="https://github.com/CSE142/sp21-CSE142L-final-starter">Link</a></td>
+ </tr>
+ <tr>
+  <td align=right>Checkpoint 2</td>
+  <td>05/30/21 11:59 PM</td>
+ </tr>
+ <tr>
+  <td align=right>Final</td>
+  <td>06/06/21 11:59 PM</td>
+ </tr>
 </table>
 
 ## Pulling Updates
