@@ -69,7 +69,7 @@ Due dates are set in gradescope.  Look for them there.
  </tr>
  <tr>
   <td align=right>Final</td>
-  <td>06/06/21 11:59 PM</td>
+  <td>06/04/21 11:59 PM</td>
  </tr>
 </table>
 
