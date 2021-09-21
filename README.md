@@ -14,64 +14,14 @@ Due dates are set in gradescope.  Look for them there.
 
 **Note** The importing process in GitHub Classroom can take a surprisingly long time.  Be patient.
 
-<table>
- <tr>
-  <th>Number</th>
-  <th>Name</th>
-  <th>Invitation Link</th>
-  <th>Release</th>
-  <th colspan=2>Due</th>
-  <th>Starter Repo</th>
- </tr>
- <tr>
-  <td>1</td>
-  <td>Intro</td>
-  <td><a href="https://classroom.github.com/a/gNSleHrN">Link</a></td>
-  <td>04/05/21</td><td colspan=2>04/11/21 11:59 PM</td>
-  <td><a href="https://github.com/CSE142/sp21-CSE142L-intro-starter">Link</a></td>
- </tr>
- <tr>
-  <td>2</td>
-  <td>Characterizing A Perceptron</td><td>
-  <a href="https://classroom.github.com/a/XRUpgIPD">Link</a></td>
-  <td>04/12/21</td><td colspan=2>04/18/21 11:59 PM</td>
-  <td><a href="https://github.com/CSE142/sp21-CSE142L-characterizing-starter">Link</a></td>
- </tr>
- <tr>
-  <td rowspan=2>3</td><td rowspan=2>Caching Optimizations</td>
-  <td rowspan=2><a href="https://classroom.github.com/a/1KwA-SOD">Link</a></td>
-  <td rowspan=2>04/21/21</td><td align=right>Checkpoint</td><td>04/26/21 11:59 PM</td>
-  <td rowspan=2><a href="https://github.com/CSE142/sp21-CSE142L-caches-I-starter">Link</a></td>
- </tr>
- <tr>
-  <td align=right>Final</td>
-  <td>05/03/21 11:59 PM</td>
- </tr>
- <tr>
-  <td rowspan=2>4</td><td rowspan=2>Complex Data Structures<br>and the Tour de Cache</td>
-  <td rowspan=2><a href="https://classroom.github.com/a/6YAkdA1_">Link</a></td>
-  <td rowspan=2>05/03/21</td><td align=right>Checkpoint</td><td>05/09/21 11:59 PM</td>
-  <td rowspan=2><a href="https://github.com/CSE142/sp21-CSE142L-datastructs-starter">Link</a></td>
- </tr>
- <tr>
-  <td align=right>Final</td>
-  <td>05/16/21 11:59 PM</td>
- </tr>
- <tr>
-  <td rowspan=3>5</td><td rowspan=3>Final</td>
-  <td rowspan=3><a href="https://classroom.github.com/a/TxFIxLtQ">Link</a></td>
-  <td rowspan=3>05/17/21</td><td align=right>Checkpoint 1</td><td>05/23/21 11:59 PM</td>
-  <td rowspan=3><a href="https://github.com/CSE142/sp21-CSE142L-final-starter">Link</a></td>
- </tr>
- <tr>
-  <td align=right>Checkpoint 2</td>
-  <td>05/30/21 11:59 PM</td>
- </tr>
- <tr>
-  <td align=right>Final</td>
-  <td>06/04/21 11:59 PM</td>
- </tr>
-</table>
+|Number | Name | Invite Link | starter Repo|
+|-------|------|-------------|----------------|
+| 1  | The Performance Equation | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
+| 2  | The Compiler | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
+| 3  | Caches | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
+| 4  | Parallelism  | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
+| 5  | Project | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
+
 
 ## Pulling Updates
 
