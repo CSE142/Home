@@ -17,10 +17,10 @@ Due dates are set in gradescope.  Look for them there.
 |Number | Name | Invite Link | starter Repo|
 |-------|------|-------------|----------------|
 | 1  | The Performance Equation | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
-| 2  | The Compiler | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
-| 3  | Caches | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
-| 4  | Parallelism  | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
-| 5  | Project | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
+| 2  | The Compiler | [invite]() | [starter]() | 
+| 3  | Caches | [invite]() | [starter]() | 
+| 4  | Parallelism  | [invite]() | [starter]() | 
+| 5  | Project | [invite]() | [starter]() | 
 
 
 ## Pulling Updates
