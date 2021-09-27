@@ -4,15 +4,13 @@ This is the starting point for CSE142L.
 
 ## Lecture Slides
 
-Available via google drive: https://drive.google.com/drive/folders/1sTRajjf_QjxjTY2n3P1rBK925o-99wud?usp=sharing
+Available via google drive: https://drive.google.com/drive/folders/1sTRajjf_QjxjTY2n3P1rBK925o-99wud?ths=true
 
 ## Labs
 
 Due dates are set in gradescope.  Look for them there.
 
-**Note** The links below are disabled until the lab is released (typically around class time).
-
-**Note** The importing process in GitHub Classroom can take a surprisingly long time.  Be patient.
+**Note** The links below won't work until the labs are released.
 
 |Number | Name | Invite Link | starter Repo|
 |-------|------|-------------|----------------|
