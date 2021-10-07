@@ -15,11 +15,10 @@ Due dates are set in gradescope.  Look for them there.
 |Number | Name | Invite Link | starter Repo|
 |-------|------|-------------|----------------|
 | 1  | The Performance Equation | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
-| 2  | The Compiler | [invite]() | [starter]() | 
-| 3  | Caches | [invite]() | [starter]() | 
-| 4  | Parallelism  | [invite]() | [starter]() | 
-| 5  | Project | [invite]() | [starter]() | 
-
+| 2  | The Compiler | [invite]() |
+| 3  | Caches | [invite]() |
+| 4  | Parallelism  | [invite]() |
+| 5  | Project | [invite]() | 
 
 # Software You Will Need
 
@@ -86,8 +85,7 @@ and stop your server and then restart it.
 
 ## Cloning the Lab Repo
 
-First, accept the assignement on Github Classroom.  It's available via the 142L
-[home page](https://github.com/CSE141pp/Home/).
+First, accept the assignement on Github Classroom.  It's available at the top of this page.
 
 This will set you up with a copy of the starter repository.
 
