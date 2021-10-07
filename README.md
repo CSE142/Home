@@ -12,8 +12,8 @@ Due dates are set in gradescope.  Look for them there.
 
 **Note** The links below won't work until the labs are released.
 
-|Number | Name | Invite Link | starter Repo|
-|-------|------|-------------|----------------|
+|Number | Name | Invite Link |
+|-------|------|-------------|
 | 1  | The Performance Equation | [invite](https://classroom.github.com/a/NmkikMXW) | 
 | 2  | The Compiler | [invite]() |
 | 3  | Caches | [invite]() |
