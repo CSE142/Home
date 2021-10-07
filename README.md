@@ -17,8 +17,8 @@ Due dates are set in gradescope.  Look for them there.
 | 1  | The Performance Equation | [invite](https://classroom.github.com/a/NmkikMXW) | 
 | 2  | The Compiler | [invite]() |
 | 3  | Caches | [invite]() |
-| 4  | Parallelism  | [invite]() |
-| 5  | Project | [invite]() | 
+| 4  | Caches II | [invite]() | 
+| 5  | Parallelism  | [invite]() |
 
 # Software You Will Need
 
