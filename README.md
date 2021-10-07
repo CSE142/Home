@@ -14,7 +14,7 @@ Due dates are set in gradescope.  Look for them there.
 
 |Number | Name | Invite Link | starter Repo|
 |-------|------|-------------|----------------|
-| 1  | The Performance Equation | [invite](https://classroom.github.com/a/NmkikMXW) | [starter](https://github.com/CSE142/fa21-CSE142L-intro-starter) | 
+| 1  | The Performance Equation | [invite](https://classroom.github.com/a/NmkikMXW) | 
 | 2  | The Compiler | [invite]() |
 | 3  | Caches | [invite]() |
 | 4  | Parallelism  | [invite]() |
