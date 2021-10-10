@@ -12,10 +12,10 @@ Due dates are set in gradescope.  Look for them there.
 
 **Note** The links below won't work until the labs are released.
 
-|Number | Name | Invite Link |
-|-------|------|-------------|
-| 1  | The Performance Equation | [invite](https://classroom.github.com/a/NmkikMXW) | 
-| 2  | The Compiler | [invite]() |
+|Number | Name | Invite Link | PDF | 
+|-------|------|-------------|-----|
+| 1  | The Performance Equation | [invite](https://classroom.github.com/a/NmkikMXW) |  |
+| 2  | The Compiler | [invite]() | [pdf](https://github.com/CSE142/fa21-CSE142L-compiler-starter/raw/main/Lab.pdf)| 
 | 3  | Caches | [invite]() |
 | 4  | Caches II | [invite]() | 
 | 5  | Parallelism  | [invite]() |
