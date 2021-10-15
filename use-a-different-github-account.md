@@ -1,4 +1,4 @@
-# How To Switch Github Account That Github Uses
+# How To Switch Github Account That Gradescope Uses
 
 
 1. Login to old github account.
