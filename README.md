@@ -137,6 +137,6 @@ Switch to the tab with file browser and navigate to the directory you just clone
 
 ## Tip and Tricks
 
-1. [Change github accounts no gradescope](use-a-different-github-account.md)
+1. [Change github accounts on gradescope](use-a-different-github-account.md)
 
 
