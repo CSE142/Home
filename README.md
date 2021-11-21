@@ -18,7 +18,7 @@ Due dates are set in gradescope.  Look for them there.
 | 2  | The Compiler | [invite](https://classroom.github.com/a/bmAV8dWe) | [pdf](https://github.com/CSE142/fa21-CSE142L-compiler-starter/raw/main/Lab.pdf)| 
 | 3  | Caches | [invite](https://classroom.github.com/a/hZY8eJ5A) | [pdf](https://github.com/CSE142/fa21-CSE142L-caches-starter/raw/main/Lab.pdf) |
 | 4  | Caches II | [invite](https://classroom.github.com/a/Mnpv2Xg6) |  [pdf](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fhg44su44igx3lg%2F2316f0ca3bd6a8d7292a948deef667d7bf6d87e0e0da19674537c9de1eb9cf42%2FLab.pdf)|  
-| 5  | Parallelism  |  |
+| 5  | Parallelism  |  |[pdf](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fhg44su44igx3lg%2F4c47b5c449d3eed762d2609d7d3f45288b28ab4ba7b19437cfc3ad1f89b77357%2FLab.pdf)
 
 # Software You Will Need
 
