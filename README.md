@@ -4,7 +4,7 @@ This is the starting point for CSE142L.
 
 ## Lecture Slides
 
-Available via google drive: https://drive.google.com/drive/folders/1sTRajjf_QjxjTY2n3P1rBK925o-99wud?ths=true
+Available via google drive: [https://drive.google.com/drive/folders/1sTRajjf_QjxjTY2n3P1rBK925o-99wud?ths=true](https://drive.google.com/drive/folders/10VN_qtKxEAVN9-OUJhuc1RWy6Ddyvvf5?usp=sharing)
 
 ## Labs
 
@@ -14,18 +14,17 @@ Due dates are set in gradescope.  Look for them there.
 
 |Number | Name | Invite Link | PDF | 
 |-------|------|-------------|-----|
-| 1  | The Performance Equation | [invite](https://classroom.github.com/a/NmkikMXW) |  |
-| 2  | The Compiler | [invite](https://classroom.github.com/a/bmAV8dWe) | [pdf](https://github.com/CSE142/fa21-CSE142L-compiler-starter/raw/main/Lab.pdf)| 
-| 3  | Caches | [invite](https://classroom.github.com/a/hZY8eJ5A) | [pdf](https://github.com/CSE142/fa21-CSE142L-caches-starter/raw/main/Lab.pdf) |
-| 4  | Caches II | [invite](https://classroom.github.com/a/Mnpv2Xg6) |  [pdf](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fhg44su44igx3lg%2F2316f0ca3bd6a8d7292a948deef667d7bf6d87e0e0da19674537c9de1eb9cf42%2FLab.pdf)|  
-| 5  | Parallelism  | [invite](https://classroom.github.com/a/Y-EXOOyd) |[pdf](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fhg44su44igx3lg%2F4c47b5c449d3eed762d2609d7d3f45288b28ab4ba7b19437cfc3ad1f89b77357%2FLab.pdf)
+| 1  | The Performance Equation | [invite](https://classroom.github.com/a/5qmCtr5k) |  [pdf]() |
+| 2  | The Compiler | [invite](https://classroom.github.com/a/fRvDX-gI) | [pdf]()| 
+| 3  | Caches | [invite](https://classroom.github.com/a/pImcoRz1) | [pdf]() |
+| 4  | Caches II | [invite](https://classroom.github.com/a/UVPgNSNC) |  [pdf]()|  
+| 5  | Parallelism  | [invite](https://classroom.github.com/a/juDwPX9O) |[pdf]()
 
 # Software You Will Need
 
 **Note** Safari and Internet Explorer are not currently supported.  This will
 probably be fixed by the next lab, but for this lab you should use Chrome
 (first choice, most tested) or Firefox.  Edge Seems to be ok.
-
 
 All your work for the class will be done in a docker container, and most of it
 will be done in a Jupyter Notebook inside that docker container.
@@ -63,8 +62,7 @@ click the big red "Stop My Server" button, if it's there.  If it's not, that's
 fine.  Then click "Logout" (upper right) to get back to the homepage and the
 big golden button.
 
-Now, click the big golden button and login with your `@ucsd.edu` email address.You'll be presented with a list of Course Environments to choose from.  Select
-the one for `CSE 142L [FA21]`.
+Now, click the big golden button and login with your `@ucsd.edu` email address.You'll be presented with a list of Course Environments to choose from.  Select the one for `CSE 142L - Software Proj Comp Arch - Swanson [FA22] - Lab 1` (if you're doing Lab 1).
 
 After a progress bar, you'll end up at the Jupyter Notebook file browser.
 Looking at an empty directory (unless you've used the Datahub before, in which
@@ -83,31 +81,12 @@ working, but then commands in the notebook will start failing and complaining
 about "stale file handles". If this happens, you need to go to "control panel"
 and stop your server and then restart it.
 
-## Cloning the Lab Repo
-
-First, accept the assignement on Github Classroom.  It's available at the top of this page.
-
-This will set you up with a copy of the starter repository.
-
-**Note**: Be sure to use the **`ssh`** method to checkout your repo rather than `http`.  Authentication over ssh is much simpler and it's what our tools assume.  If you try to use HTTP, you'll get something like:
-
-```
-sjswanson@dsmlp-jupyter-sjswanson:~/tt$ git clone http://github.com/NVSL/CSE141pp-Lab-Common.git
-Cloning into 'CSE141pp-Lab-Common'...
-Username for 'https://github.com': stevenjswanson
-Password for 'https://stevenjswanson@github.com':
-remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-fatal: Authentication failed for 'https://github.com/NVSL/CSE141pp-Lab-Common.git/'
-```
-![clone with ssh](images/clone-with-ssh.png)
-
+## Setting up SSH
 
 You'll need to open a terminal from data hub.  From the file browser, lect "new->terminal" from the menu in the upper right.
 At the resulting Linux prompt, you can `git clone` the repo locally.
 
 ![Log into datahub](images/open-terminal-short.gif)
-
 
 You may need to create an ssh key and add it to your github account.  You can create the key with (in your datahub terminal):
 
@@ -123,10 +102,25 @@ Then view your new public key:
 cat ~/.ssh/id_rsa.pub
 ```
 
-Then follow these instructions:
+Then follow these instructions to tell github about it:
 
 https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
+## Cloning the Lab Repo
+
+First, accept the assignement on Github Classroom.  It's available at the top of this page.
+
+This will set you up with a copy of the starter repository.
+
+**Note**: Be sure to use the **`ssh`** method to checkout your repo rather than `http`.  Http is pretty hard to use now on github.
+
+You can now clone your repo with 
+
+```
+git clone <your lab url>
+```
+
+![clone with ssh](images/clone-with-ssh.png)
 
 ## Open the Notebook
 
