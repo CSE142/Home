@@ -25,6 +25,8 @@ Due dates are set in gradescope.  Look for them there.
 
 For the reading quiz (check the syllabus for due dates), you just need the pdf from the link above.  The invite link to get access to the actual lab may not work before class meets.
 
+The PDF is long, but you don't need to read all of it.  There are instructions in the file about what to read for the reading quiz.  Following them will save you a bunch of time.
+
 # Software You Will Need
 
 **Note** Safari and Internet Explorer are not currently supported.  This will
