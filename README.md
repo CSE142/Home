@@ -14,11 +14,16 @@ Due dates are set in gradescope.  Look for them there.
 
 |Number | Name | Invite Link | PDF | 
 |-------|------|-------------|-----|
-| 1  | The Performance Equation | [invite](https://classroom.github.com/a/5qmCtr5k) |  [pdf]() |
+| 1  | The Performance Equation | [invite](https://classroom.github.com/a/5qmCtr5k) |  [pdf](https://github.com/CSE142/fa22-CSE142L-intro-starter/raw/main/Lab.pdf) |
 | 2  | The Compiler | [invite](https://classroom.github.com/a/fRvDX-gI) | [pdf]()| 
 | 3  | Caches | [invite](https://classroom.github.com/a/pImcoRz1) | [pdf]() |
 | 4  | Caches II | [invite](https://classroom.github.com/a/UVPgNSNC) |  [pdf]()|  
 | 5  | Parallelism  | [invite](https://classroom.github.com/a/juDwPX9O) |[pdf]()
+
+
+# Reading Quizzes
+
+For the reading quiz (check the syllabus for due dates), you just need the pdf from the link above.  The invite link to get access to the actual lab may not work before class meets.
 
 # Software You Will Need
 
