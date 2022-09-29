@@ -16,9 +16,9 @@ Due dates are set in gradescope.  Look for them there.
 |-------|------|-------------|-----|
 | 1  | The Performance Equation | [invite](https://classroom.github.com/a/5qmCtr5k) |  [pdf](https://github.com/CSE142/fa22-CSE142L-intro-starter/raw/main/Lab.pdf) |
 | 2  | The Compiler | [invite](https://classroom.github.com/a/fRvDX-gI) | [pdf]()| 
-| 3  | Caches | [invite](https://classroom.github.com/a/pImcoRz1) | [pdf]() |
-| 4  | Caches II | [invite](https://classroom.github.com/a/UVPgNSNC) |  [pdf]()|  
-| 5  | Parallelism  | [invite](https://classroom.github.com/a/juDwPX9O) |[pdf]()
+| 3  | Caches | [invite]() | [pdf]() |
+| 4  | Caches II | [invite]() |  [pdf]()|  
+| 5  | Parallelism  | [invite]() |[pdf]()
 
 
 # Reading Quizzes
