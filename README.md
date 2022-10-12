@@ -31,7 +31,7 @@ The PDF is long, but you don't need to read all of it.  There are instructions i
 
 **Note** Safari and Internet Explorer are not currently supported.  This will
 probably be fixed by the next lab, but for this lab you should use Chrome
-(first choice, most tested) or Firefox.  Edge Seems to be ok.
+(first choice, most tested) or Firefox.  Edge seems to be ok.
 
 All your work for the class will be done in a docker container, and most of it
 will be done in a Jupyter Notebook inside that docker container.
@@ -64,7 +64,7 @@ One of two things will happen:
 
 2. If you've used the system before/recently it might drop you directly into a jupyter notebook file browser.
 
-If you it's #2, you will need to click "Control Panel" (upper right) and then
+If it's #2 for you, click "Control Panel" (upper right) and then
 click the big red "Stop My Server" button, if it's there.  If it's not, that's
 fine.  Then click "Logout" (upper right) to get back to the homepage and the
 big golden button.
@@ -90,7 +90,7 @@ and stop your server and then restart it.
 
 ## Setting up SSH
 
-You'll need to open a terminal from data hub.  From the file browser, lect "new->terminal" from the menu in the upper right.
+You'll need to open a terminal from data hub.  From the file browser, select "new->terminal" from the menu in the upper right.
 At the resulting Linux prompt, you can `git clone` the repo locally.
 
 ![Log into datahub](images/open-terminal-short.gif)
