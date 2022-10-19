@@ -98,7 +98,7 @@ At the resulting Linux prompt, you can `git clone` the repo locally.
 You may need to create an ssh key and add it to your github account.  You can create the key with (in your datahub terminal):
 
 ```
-ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-keygen -t ed25519 
 ```
 
 and accept the defaults.  I recommend no password, so you don't have to type it all the time.
