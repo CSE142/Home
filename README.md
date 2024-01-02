@@ -18,7 +18,7 @@ Due dates are set in gradescope.  Look for them there.
 | 2  | The Compiler | [invite]() | [pdf]()| 
 | 3  | Caches | [invite]() | [pdf]() |
 | 4  | Caches II | [invite]() |  [pdf]()|  
-| 5  | Parallelism  | [invite]() |
+| 5  | Parallelism  | [invite]() | [pdf]()
 
 
 # Reading Quizzes
