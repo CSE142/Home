@@ -14,11 +14,11 @@ Due dates are set in gradescope.  Look for them there.
 
 |Number | Name | Invite Link | PDF | 
 |-------|------|-------------|-----|
-| 1  | The Performance Equation | [invite](https://classroom.github.com/a/5qmCtr5k) |  [pdf](https://github.com/CSE142/fa22-CSE142L-intro-starter/raw/main/Lab.pdf) |
-| 2  | The Compiler | [invite](https://classroom.github.com/a/fRvDX-gI) | [pdf](https://github.com/CSE142/fa22-CSE142L-compiler-starter/raw/main/Lab.pdf)| 
-| 3  | Caches | [invite](https://classroom.github.com/a/pImcoRz1) | [pdf](https://github.com/CSE142/fa22-CSE142L-caches-starter/raw/main/Lab.pdf) |
-| 4  | Caches II | [invite](https://classroom.github.com/a/UVPgNSNC) |  [pdf](https://github.com/CSE142/fa22-CSE142L-caches2-starter/raw/main/Lab.pdf)|  
-| 5  | Parallelism  | [invite](https://classroom.github.com/a/juDwPX9O) |
+| 1  | The Performance Equation | [invite]() |  [pdf]() |
+| 2  | The Compiler | [invite]() | [pdf]()| 
+| 3  | Caches | [invite]() | [pdf]() |
+| 4  | Caches II | [invite]() |  [pdf]()|  
+| 5  | Parallelism  | [invite]() |
 
 
 # Reading Quizzes
@@ -29,12 +29,10 @@ The PDF is long, but you don't need to read all of it.  There are instructions i
 
 # Software You Will Need
 
-**Note** Safari and Internet Explorer are not currently supported.  This will
-probably be fixed by the next lab, but for this lab you should use Chrome
+**Note** Safari and Internet Explorer are not currently supported.  You should use Chrome
 (first choice, most tested) or Firefox.  Edge Seems to be ok.
 
-All your work for the class will be done in a docker container, and most of it
-will be done in a Jupyter Notebook inside that docker container.
+All your work for the class will be done within Juptyer Notebook running in a Docker container.
 
 Docker containers are self-contained Linux-based workspaces.  Using docker
 ensures that your code runs in a consistent environment for you and the
