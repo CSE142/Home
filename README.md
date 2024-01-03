@@ -12,13 +12,13 @@ Due dates are set in gradescope.  Look for them there.
 
 **Note** The links below won't work until the labs are released.
 
-|Number | Name | Invite Link | PDF | 
-|-------|------|-------------|-----|
-| 1  | The Performance Equation | [invite]() |  [pdf](https://raw.githubusercontent.com/CSE142/Home/master/pdfs/Lab_1.pdf) |
-| 2  | The Compiler | [invite]() | [pdf]()| 
-| 3  | Caches | [invite]() | [pdf]() |
-| 4  | Caches II | [invite]() |  [pdf]()|  
-| 5  | Parallelism  | [invite]() | [pdf]()
+|Number | Name | Invite Link | PDF | Released? |
+|-------|------|-------------|-----|-----------|
+| 1  | The Performance Equation | [invite]() |  [pdf](https://raw.githubusercontent.com/CSE142/Home/master/pdfs/Lab_1.pdf) | PDF only | 
+| 2  | The Compiler | [invite]() | [pdf]()| Not yet | 
+| 3  | Caches | [invite]() | [pdf]() |Not yet |
+| 4  | Caches II | [invite]() |  [pdf]()|  Not yet |
+| 5  | Parallelism  | [invite]() | [pdf]()|Not yet |
 
 
 # Reading Quizzes
