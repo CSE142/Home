@@ -4,7 +4,7 @@ This is the starting point for CSE142L.
 
 ## Lecture Slides
 
-Available via google drive: [https://drive.google.com/drive/folders/1sTRajjf_QjxjTY2n3P1rBK925o-99wud?ths=true](https://drive.google.com/drive/folders/10VN_qtKxEAVN9-OUJhuc1RWy6Ddyvvf5?usp=sharing)
+Available via google drive: https://drive.google.com/drive/folders/1gFFuPf5g9cWTitaSnSkB_guuTMtvtuQI?ths=true
 
 ## Labs
 
