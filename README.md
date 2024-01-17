@@ -15,7 +15,7 @@ Due dates are set in gradescope.  Look for them there.
 |Number | Name | Invite Link | PDF | Released? |
 |-------|------|-------------|-----|-----------|
 | 1  | The Performance Equation | [invite](https://classroom.github.com/a/zW7ZfuFB) |  [pdf](https://raw.githubusercontent.com/CSE142/Home/master/pdfs/Lab_1.pdf) | yes | 
-| 2  | The Compiler | [invite]() | [pdf]()| Not yet | 
+| 2  | The Compiler | [invite]() | [pdf](https://raw.githubusercontent.com/CSE142/Home/master/pdfs/Lab_2.pdf)| PDF | 
 | 3  | Caches | [invite]() | [pdf]() |Not yet |
 | 4  | Caches II | [invite]() |  [pdf]()|  Not yet |
 | 5  | Parallelism  | [invite]() | [pdf]()|Not yet |
