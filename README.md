@@ -12,6 +12,9 @@ Due dates are set in gradescope.  Look for them there.
 
 **Note** The links below won't work until the labs are released.
 
+**Note** In order to access these you'll need to access this page here: https://cse142.github.io/Home/index.html (instead of viewing the github repo directly.)
+
+[.](labs/Lab3/Lab.reading.html)
 |Number | Name | Invite Link | PDF | Released? |
 |-------|------|-------------|-----|-----------|
 | 1  | The Performance Equation | [invite](https://classroom.github.com/a/zW7ZfuFB) |  [pdf](https://raw.githubusercontent.com/CSE142/Home/master/pdfs/Lab_1.pdf) | yes | 
