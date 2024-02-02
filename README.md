@@ -12,15 +12,11 @@ Due dates are set in gradescope.  Look for them there.
 
 **Note** The links below won't work until the labs are released.
 
-**Note** In order to access these you'll need to access this page here: https://cse142.github.io/Home/index.html (instead of viewing the github repo directly.)
-
-[.](https://cse142.github.io/Home/Lab3/Lab.reading.html)
-
 |Number | Name | Invite Link | PDF | Released? |
 |-------|------|-------------|-----|-----------|
 | 1  | The Performance Equation | [invite](https://classroom.github.com/a/zW7ZfuFB) |  [pdf](https://raw.githubusercontent.com/CSE142/Home/master/pdfs/Lab_1.pdf) | yes | 
 | 2  | The Compiler | [invite](https://classroom.github.com/a/32LX0vTl) | [pdf](https://raw.githubusercontent.com/CSE142/Home/master/pdfs/Lab_2.pdf)| yes | 
-| 3  | Caches | [invite]() | [pdf]() |Not yet |
+| 3  | Caches | [invite]() | [html](https://cse142.github.io/Home/caches/Lab.reading.html) | reading |
 | 4  | Caches II | [invite]() |  [pdf]()|  Not yet |
 | 5  | Parallelism  | [invite]() | [pdf]()|Not yet |
 
